@@ -1,5 +1,5 @@
 ## Predicting House Prices in California
-![]('https://github.com/penscola/Machine-Learning-Zoomcamp/blob/master/image/0_q_645J1CxoHpQN2L.jpg)
+![Alt text](https://github.com/penscola/Machine-Learning-Zoomcamp/blob/master/image/0_q_645J1CxoHpQN2L.jpg)
 
 ### Project Description
 Welcome to the California Housing Prices Analysis! In this project, we are going to use the 1990 California Census dataset to study and try to understand how the different attributes can make the house prices get higher or lower. How does the location impact? How about the size of the house? The age?
